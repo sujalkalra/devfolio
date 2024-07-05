@@ -1,2 +1,2 @@
 # devfolio
-ting nextjs
+testing nextjs
